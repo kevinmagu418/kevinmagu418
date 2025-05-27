@@ -2,7 +2,7 @@
 #### FullStack Web Developer | Web Designer | Machine Learning Enthusiast  
 <h1>
 <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.herokuapp.com/?lines=welcome+//To+My+profile&size=30"><!-- Replace with your custom banner URL -->
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+profile&size=30"><!-- Replace with your custom banner URL -->
 </a>
 </h1>
 <br/>
