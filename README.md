@@ -1,7 +1,11 @@
 ### Hi there 👋, I'm Kevin Magu  
 #### FullStack Web Developer | Web Designer | Machine Learning Enthusiast  
-![Banner](https://github.com/kevinmagu418/kevinmagu418/blob/main/assets/banner.png) <!-- Replace with your custom banner URL -->
-
+<h1>
+<a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=welcome+//To+My+profile&size=30"><!-- Replace with your custom banner URL -->
+</a>
+</h1>
+<br/>
 I'm Kevin Magu, a passionate **FullStack Web Developer**, **Designer**, and **Machine Learning Enthusiast**. I specialize in building modern, user-friendly, and scalable web applications, and I also enjoy working with data — analyzing, visualizing, and modeling it using Python-based tools.
 
 ---
