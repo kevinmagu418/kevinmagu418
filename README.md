@@ -1,68 +1,63 @@
-### Hi there 👋, I'm Kevin Magu  
-#### FullStack Web Developer | Web Designer | Machine Learning Enthusiast  
-<h1>
-<a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+profile&size=30"><!-- Replace with your custom banner URL -->
-</a>
-</h1>
-<br/>
-I'm Kevin Magu, a passionate **FullStack Web Developer**, **Designer**, and **Machine Learning Enthusiast**. I specialize in building modern, user-friendly, and scalable web applications, and I also enjoy working with data — analyzing, visualizing, and modeling it using Python-based tools.
+<!-- GitHub README with Custom Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kevinmagu418/kevinmagu418/main/assets/kevin-banner.png" alt="Kevin Magu Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Kevin Magu</h1>
+<h3 align="center">Full-Stack Developer | Web Designer | Machine Learning Explorer</h3>
+
+<p align="center">
+  <a href="https://kevins-portfolio-green.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:kevomagunas439@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Technologies & Skills
+### 💻 Tech Stack
 
-- **Programming Languages**: Java, JavaScript, Python, C  
-- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js  
-- **Backend**: Node.js, Express.js, Firebase  
-- **Machine Learning & Data Science**: Python, Pandas, NumPy, Scikit-learn (currently learning)  
-- **Databases**: MongoDB, MySQL ,postreSql
-- **Tools & Platforms**: Linux, WebSocket, Socket Programming  
-- **Version Control**: Git, GitHub  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,python,mongodb,mysql,postgres,git,github,linux" />
+</p>
 
 ---
 
-### 🌱 What I'm Currently Learning
+### 🧠 About Me
 
-- Advanced React.js and Next.js  
-- **Machine Learning fundamentals and Python for data analysis**  
-
-
----
-
-### 🔭 Current Projects 
-- Learning and applying machine learning with real-world datasets  
-- Contributing to open-source projects  
+- 🔭 Currently working on full-stack projects and machine learning experiments  
+- 🌱 Learning advanced React, Next.js, and Scikit-learn  
+- 💬 Ask me about web dev, animations, or modern UI  
+- ⚡ Fun fact: I prefer code that's **clean, intuitive, and scalable**
 
 ---
 
-### 📫 How to Reach Me
+### 📊 GitHub Stats
 
-- **Email**: kevomagunas439@gmail.com  
-- **GitHub**: [kevinmagu418](https://github.com/kevinmagu418)  
-- **Instagram**: [@kevthe_soulsnatcher](https://www.instagram.com/kevthe_soulsnatcher/)  
-
----
-
-### 🚀 GitHub Stats
-
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinmagu418&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmagu418&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinmagu418&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmagu418&layout=compact&theme=radical" height="150"/>
+</p>
 
 ---
 
-### ✨ Let's Connect!
+### 📫 Reach Out
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/kevinmagu418)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/kevthe_soulsnatcher/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/your-linkedin-profile/) <!-- Add your LinkedIn profile link -->
+<p align="center">
+  <a href="https://instagram.com/kevthe_soulsnatcher">
+    <img src="https://img.shields.io/badge/@kevthe_soulsnatcher-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/kevinmagu418">
+    <img src="https://img.shields.io/badge/GitHub-kevinmagu418-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 💡 Fun Fact
-
-I’m a huge fan of clean code and performance optimization. Whether it’s **building fullstack apps** or **training models to make predictions**, I love solving problems with code. When I’m not coding, I’m exploring new tech, contributing to the dev community, or deep-diving into data.
+> “Your time is limited, so don’t waste it living someone else’s life.” — *Steve Jobs*
 
 ---
 
-Thanks for stopping by — let’s build something amazing together! 😄
+Thanks for visiting my GitHub! Let’s build something amazing together 🚀 ​:contentReference[oaicite:0]{index=0}​
