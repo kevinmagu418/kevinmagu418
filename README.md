@@ -18,10 +18,10 @@
 ---
 
 ### 💻 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,python,mongodb,mysql,postgres,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nextjs,nodejs,express,html,css,tailwind,python,mongodb,mysql,postgres,git,github,linux" />
 </p>
+
 
 ---
 
