@@ -1,6 +1,6 @@
 <!-- GitHub README with Custom Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kevinmagu418/kevinmagu418/main/assets/kevin-banner.png" alt="Kevin Magu Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/kevinmagu418/kevinmagu418/kevin-banner.png" alt="Kevin Magu Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kevin Magu</h1>
