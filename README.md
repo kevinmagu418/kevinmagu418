@@ -28,7 +28,7 @@
 ### 🧠 About Me
 
 - 🔭 Currently working on full-stack projects and machine learning experiments  
-- 🌱 Learning advanced React, Next.js, and Scikit-learn  
+- 🌱 Learning advanced ReactNative, Next.js, and Deeplearningmodel  
 - 💬 Ask me about web dev, animations, or modern UI  
 - ⚡ Fun fact: I prefer code that's **clean, intuitive, and scalable**
 
